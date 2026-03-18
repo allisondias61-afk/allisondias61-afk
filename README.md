@@ -14,6 +14,7 @@
   <p style="font-size: 1.2rem; max-width: 720px; line-height: 1.6; opacity: 0.8;">
     Exploring the universe through code • Mastering Java & Python for reliable test automation
   </p>
+![Black Hole Loop GIF by xponentialdesign](https://github.com/user-attachments/assets/503393ea-5223-43a8-aab8-613baa939545)
 
   <!-- Tecnologias com vibe espacial neon -->
   <p style="margin: 30px 0 40px;">
