@@ -1,14 +1,13 @@
-<!-- ROCKET -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=E57C49&size=25&center=true&vCenter=true&width=600&lines=Automation+Engineer+in+Progress;Java+%7C+Automation+%7C+Systems+Thinking;Building+Reliable+and+Scalable+Solutions" />
 </p>
 
-<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Automation+Engineer+in+Progress;Java+%7C+Automation+%7C+Systems;Building+Reliable+and+Scalable+Solutions" />
-</p>
+  <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
+</p> 
 
-<h1 align="center">Hi 👋, I'm Allison Dias</h1>
+<h1 align="center"><img src="file:///C:/Users/Relogado/Desktop/original-80d4110450b9248b49d324762a6cb439.gif"/></h1>
 <h3 align="center">Automation-focused Developer | Java | Systems Thinking</h3>
 
 ---
