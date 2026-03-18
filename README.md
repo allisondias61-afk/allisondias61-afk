@@ -1,25 +1,24 @@
 <div align="center">
 
-  <!-- Banner Espacial Futurista -->
-  <img src="<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/b768d29f-0cdc-49c7-bf86-b60d5ac89611" />
-" 
-       alt="Starship in Space" 
+  <!-- Novo Banner Personalizado -->
+  <img src="https://grok.x.ai/generated-image/qUwGW" 
+       alt="ALLISON - SpaceX Style Banner" 
        width="100%" 
-       style="border-radius: 16px; margin-bottom: 35px; filter: brightness(0.9) contrast(1.05);"/>
+       style="border-radius: 16px; margin-bottom: 35px;"/>
 
   <h1 style="font-size: 3.5rem; letter-spacing: -3px; margin: 12px 0; color: #00ff9f; text-shadow: 0 0 20px rgba(0, 255, 159, 0.4);">
     ALLISON
   </h1>
   
-  <p style="font-size: 1.4rem; margin-bottom: 6px; opacity: 0.95;">
-    Software Development Engineer in Test (SDET)
+  <p style="font-size: 1.35rem; margin-bottom: 8px; opacity: 0.95;">
+    Software Engineer / Software Tester
   </p>
   
   <p style="font-size: 1.2rem; max-width: 720px; line-height: 1.6; opacity: 0.8;">
     Exploring the universe through code • Mastering Java & Python for reliable test automation
   </p>
 
-  <!-- Tecnologias com vibe espacial / neon (ícones minimalistas) -->
+  <!-- Tecnologias com vibe espacial neon -->
   <p style="margin: 30px 0 40px;">
     <img src="https://img.shields.io/badge/Java-0A0A0A?style=flat&logo=java&logoColor=00FF9F&color=111111" height="32" alt="Java"/>
     <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat&logo=python&logoColor=00FF9F&color=111111" height="32" alt="Python"/>
@@ -27,13 +26,13 @@
     <img src="https://img.shields.io/badge/Testing-0A0A0A?style=flat&logo=testinglibrary&logoColor=00FF9F&color=111111" height="32" alt="Testing"/>
   </p>
 
-  <!-- Starship GIF (funcional e épico) -->
+  <!-- GIF Starship -->
   <h3 style="margin: 20px 0 12px; letter-spacing: 3px; font-size: 1.35rem; opacity: 0.9; color: #ffffff;">
     IGNITION SEQUENCE START
   </h3>
   
   <img src="https://media.giphy.com/media/3o7TKsQ8v7z7YfW8zO/giphy.gif" 
-       alt="Starship Launch GIF" 
+       alt="Starship Launch" 
        width="640" 
        style="border-radius: 14px; box-shadow: 0 0 50px rgba(0, 255, 159, 0.2);"/>
 
@@ -43,7 +42,7 @@
 
   <hr style="border-color: #1a1a1a; margin: 55px 0 45px; width: 55%;"/>
 
-  <!-- Mission Log (Stats) -->
+  <!-- Mission Log -->
   <h2 style="letter-spacing: 4px; font-size: 1.45rem; opacity: 0.95; color: #00ff9f;">MISSION LOG</h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=allisondias61-afk&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=CCCCCC&icon_color=00FF9F" 
