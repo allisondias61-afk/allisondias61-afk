@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Novo Banner Personalizado -->
-  <img src="https://grok.x.ai/generated-image/qUwGW" 
+  <img src="[https://grok.x.ai/generated-image/qUwGW](https://assets.grok.com/users/531f4bf2-9adf-4d63-ae23-611dda8f655c/generated/4a444807-222d-4931-af98-c41fe1f06e17/image.jpg)" 
        alt="ALLISON - SpaceX Style Banner" 
        width="100%" 
        style="border-radius: 16px; margin-bottom: 35px;"/>
