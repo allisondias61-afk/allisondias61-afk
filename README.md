@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="80"/>
+  <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
 </p> 
 
 # Allison Dias
@@ -15,7 +15,6 @@ I am a developer focused on **automation, system reliability, and scalable softw
 My goal is to design solutions that **optimize processes, reduce manual effort, and improve performance**, always applying an engineering mindset.  
 
 Inspired by high-performance environments such as aerospace systems, I aim to build software that meets **high standards of precision, efficiency, and reliability**.
-<img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
 
 ---
 
