@@ -14,7 +14,6 @@
   <p style="font-size: 1.2rem; max-width: 720px; line-height: 1.6; opacity: 0.8;">
     Exploring the universe through code • Mastering Java & Python for reliable test automation
   </p>
-![Black Hole Loop GIF by xponentialdesign](https://github.com/user-attachments/assets/503393ea-5223-43a8-aab8-613baa939545)
 
   <!-- Tecnologias com vibe espacial neon -->
   <p style="margin: 30px 0 40px;">
@@ -32,7 +31,7 @@ Drag & Drop this GIF anywhere!
     IGNITION SEQUENCE START
   </h3>
   
-  <img src="[https://media.giphy.com/media/3o7TKsQ8v7z7YfW8zO/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmw2eTl2YTNkMXI5NnJxd2piZTV2c3BhdW9yNXBlbW1saWQ2ZXFweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tj4jjaCxXRVSARsUzN/giphy.gif)" 
+  <img src="https://github.com/user-attachments/assets/cddd3a38-e6f1-4e4a-8440-c5b7335b96a4" 
        alt="Starship Launch" 
        width="640" 
        style="border-radius: 14px; box-shadow: 0 0 50px rgba(0, 255, 159, 0.2);"/>
