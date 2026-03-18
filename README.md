@@ -28,7 +28,7 @@
     IGNITION SEQUENCE START
   </h3>
   
-  <img src="https://media.giphy.com/media/3o7TKsQ8v7z7YfW8zO/giphy.gif" 
+  <img src="[https://media.giphy.com/media/3o7TKsQ8v7z7YfW8zO/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgwYzd5cDl0MTNlZnFxd2syaTZhejY4eHd0cmNlbTd0dWw2aTF1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mi6DsSSNKDbUY/giphy.gif)" 
        alt="Starship Launch" 
        width="640" 
        style="border-radius: 14px; box-shadow: 0 0 50px rgba(0, 255, 159, 0.2);"/>
