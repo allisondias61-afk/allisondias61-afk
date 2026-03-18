@@ -1,77 +1,89 @@
-<div align="center">
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Automation+Engineer+in+Progress;Java+%7C+Automation+%7C+Systems+Thinking;Building+Reliable+and+Scalable+Solutions" />
+</p>
 
-  <!-- Novo Banner Personalizado -->
-  [<img width="100%" height="784" border-radius="16px" alt="image" src="https://github.com/user-attachments/assets/7ffcf2d4-0f22-4ec5-ae5b-c6cf6aba7c13"  />](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgwYzd5cDl0MTNlZnFxd2syaTZhejY4eHd0cmNlbTd0dWw2aTF1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mi6DsSSNKDbUY/giphy.gif)
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="80"/>
+</p> Allison Dias
 
-  <h1 style="font-size: 3.5rem; letter-spacing: -3px; margin: 12px 0; color: #00ff9f; text-shadow: 0 0 20px rgba(0, 255, 159, 0.4);">
-    ALLISON
-  </h1>
-  
-  <p style="font-size: 1.35rem; margin-bottom: 8px; opacity: 0.95;">
-    Software Engineer / Software Tester
-  </p>
-  
-  <p style="font-size: 1.2rem; max-width: 720px; line-height: 1.6; opacity: 0.8;">
-    Exploring the universe through code • Mastering Java & Python for reliable test automation
-  </p>
+## 👨‍💻 About Me
+I am a developer focused on **automation, system reliability, and scalable software engineering**.  
 
-  <!-- Tecnologias com vibe espacial neon -->
-  <p style="margin: 30px 0 40px;">
-    <img src="https://img.shields.io/badge/Java-0A0A0A?style=flat&logo=java&logoColor=00FF9F&color=111111" height="32" alt="Java"/>
-    <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat&logo=python&logoColor=00FF9F&color=111111" height="32" alt="Python"/>
-    <img src="https://img.shields.io/badge/Selenium-0A0A0A?style=flat&logo=selenium&logoColor=00FF9F&color=111111" height="32" alt="Selenium"/>
-    <img src="https://img.shields.io/badge/Testing-0A0A0A?style=flat&logo=testinglibrary&logoColor=00FF9F&color=111111" height="32" alt="Testing"/>
-  </p>
+My goal is to design solutions that **optimize processes, reduce manual effort, and improve performance**, always applying an engineering mindset.  
 
-  <!-- GIF Starship -->
-Drag & Drop this GIF anywhere!
+Inspired by high-performance environments such as aerospace systems, I aim to build software that meets **high standards of precision, efficiency, and reliability**.
 
+---
 
-  <h3 style="margin: 20px 0 12px; letter-spacing: 3px; font-size: 1.35rem; opacity: 0.9; color: #ffffff;">
-    IGNITION SEQUENCE START
-  </h3>
-  
-  <img src="https://github.com/user-attachments/assets/cddd3a38-e6f1-4e4a-8440-c5b7335b96a4" 
-       alt="Starship Launch" 
-       width="640" 
-       style="border-radius: 14px; box-shadow: 0 0 50px rgba(0, 255, 159, 0.2);"/>
+## ⚙️ Tech Stack
 
-  <p style="margin-top: 14px; font-size: 1rem; opacity: 0.7; letter-spacing: 1px;">
-    STARSHIP • FULLY REUSABLE • MAKING LIFE MULTIPLANETARY
-  </p>
+# <p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="120"/>
+</p>
 
-  <hr style="border-color: #1a1a1a; margin: 55px 0 45px; width: 55%;"/>
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  <!-- Mission Log -->
-  <h2 style="letter-spacing: 4px; font-size: 1.45rem; opacity: 0.95; color: #00ff9f;">MISSION LOG</h2>
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Octane](https://img.shields.io/badge/Octane-6DB33F?style=for-the-badge&logo=microfocus&logoColor=white)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=allisondias61-afk&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=CCCCCC&icon_color=00FF9F" 
-       alt="GitHub Stats" height="200" style="margin: 10px;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisondias61-afk&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=CCCCCC" 
-       alt="Top Languages" height="200" style="margin: 10px;"/>
+---
 
-  <hr style="border-color: #1a1a1a; margin: 55px 0 45px; width: 55%;"/>
+## 🤖 Automation & Engineering Focus
+- Test automation and workflow optimization  
+- Building reliable and repeatable systems  
+- Process efficiency and performance improvement  
+- Scalable and maintainable solutions  
+- Real-world problem-solving with engineering mindset  
 
-  <!-- Cosmos -->
-  <h2 style="letter-spacing: 3px; font-size: 1.4rem; opacity: 0.9;">THE COSMOS</h2>
-  <p style="max-width: 720px; line-height: 1.8; font-size: 1.05rem; opacity: 0.8;">
-    Observable universe • 93 billion light-years<br>
-    ~200 billion trillion stars • 13.8 billion years old<br>
-    Only 5% ordinary matter — the rest is dark
-  </p>
+---
 
-  <hr style="border-color: #1a1a1a; margin: 50px 0 40px; width: 55%;"/>
+## 📊 GitHub Analytics
 
-  <!-- SpaceX -->
-  <h2 style="letter-spacing: 3px; font-size: 1.4rem; opacity: 0.9;">SPACEX</h2>
-  <p style="max-width: 720px; line-height: 1.8; font-size: 1.05rem; opacity: 0.8;">
-    600+ Falcon 9 launches • 99.5% success rate<br>
-    Starship — the most powerful rocket ever built — preparing for Mars
-  </p>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllisonjDias&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllisonjDias&layout=compact&theme=tokyonight"/>
+</p>
 
-  <p style="margin: 50px 0 20px; font-size: 1.15rem; opacity: 0.75;">
-    “The sky is not the limit. It is only the beginning.”
-  </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AllisonjDias&theme=tokyonight" />
+</p>
 
-</div>
+---
+
+## 📈 Current Focus
+- Advancing in **Java and automation frameworks**  
+- Improving **software architecture and design patterns**  
+- Expanding knowledge in **cloud (AWS)**  
+- Applying automation in real-world scenarios  
+
+---
+
+## 🧠 Engineering Mindset
+- Precision and reliability over shortcuts  
+- Clean and maintainable code  
+- Systems thinking approach  
+- Performance and scalability focus  
+
+---
+
+## 🛰️ Mission
+To evolve into a **software engineer specialized in automation and high-reliability systems**, contributing to environments where **performance, precision, and innovation are critical**.
+
+---
+
+## 📬 Contact
+- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: (coloca depois)
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving complex problems and turning them into efficient automated solutions.
