@@ -1,9 +1,7 @@
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&duration=4950&pause=1000&color=F7F7F7&center=true&width=435&lines=Allison+Dias" alt="Typing SVG" /></a>
 
-<p align="center">
-  <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
-</p> 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&duration=4950&pause=1000&color=F7F7F7&center=true&width=435&lines=Allison+Dias" alt="Typing SVG" /></a>
 
 <h1 align="center"><img src="https://github.com/user-attachments/assets/7dcf9803-06d7-42a2-9913-ebdbd5606e46" width="200"></h1>
 <h3 align="center">Automation-focused Developer | Java | Systems Thinking</h3>
