@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- Banner Espacial Futurista -->
-  <img src="https://images.unsplash.com/photo-1541185933-1d3b9f3e3f3f" 
+  <img src="<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/b768d29f-0cdc-49c7-bf86-b60d5ac89611" />
+" 
        alt="Starship in Space" 
        width="100%" 
        style="border-radius: 16px; margin-bottom: 35px; filter: brightness(0.9) contrast(1.05);"/>
