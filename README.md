@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Novo Banner Personalizado -->
-  <img width="100%" height="784" border-radius="16px" alt="image" src="https://github.com/user-attachments/assets/7ffcf2d4-0f22-4ec5-ae5b-c6cf6aba7c13"  />
+  [<img width="100%" height="784" border-radius="16px" alt="image" src="https://github.com/user-attachments/assets/7ffcf2d4-0f22-4ec5-ae5b-c6cf6aba7c13"  />](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgwYzd5cDl0MTNlZnFxd2syaTZhejY4eHd0cmNlbTd0dWw2aTF1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mi6DsSSNKDbUY/giphy.gif)
 
   <h1 style="font-size: 3.5rem; letter-spacing: -3px; margin: 12px 0; color: #00ff9f; text-shadow: 0 0 20px rgba(0, 255, 159, 0.4);">
     ALLISON
