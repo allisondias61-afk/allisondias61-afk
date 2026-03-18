@@ -15,6 +15,7 @@ I am a developer focused on **automation, system reliability, and scalable softw
 My goal is to design solutions that **optimize processes, reduce manual effort, and improve performance**, always applying an engineering mindset.  
 
 Inspired by high-performance environments such as aerospace systems, I aim to build software that meets **high standards of precision, efficiency, and reliability**.
+<img src="https://github.com/user-attachments/assets/37bae386-db72-4248-a668-edc18d11109e"/>
 
 ---
 
