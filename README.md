@@ -5,7 +5,9 @@
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="80"/>
-</p> Allison Dias
+</p> 
+
+# Allison Dias
 
 ## 👨‍💻 About Me
 I am a developer focused on **automation, system reliability, and scalable software engineering**.  
@@ -17,10 +19,6 @@ Inspired by high-performance environments such as aerospace systems, I aim to bu
 ---
 
 ## ⚙️ Tech Stack
-
-# <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="120"/>
-</p>
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -46,6 +44,9 @@ Inspired by high-performance environments such as aerospace systems, I aim to bu
 ---
 
 ## 📊 GitHub Analytics
+# <p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="120"/>
+</p>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllisonjDias&show_icons=true&theme=tokyonight"/>
