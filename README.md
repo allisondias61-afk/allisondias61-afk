@@ -2,9 +2,6 @@
 
   <!-- Novo Banner Personalizado -->
   <img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/7ffcf2d4-0f22-4ec5-ae5b-c6cf6aba7c13" /> 
-       alt="ALLISON - SpaceX Style Banner" 
-       width="100%" 
-       style="border-radius: 16px; margin-bottom: 35px;"/>
 
   <h1 style="font-size: 3.5rem; letter-spacing: -3px; margin: 12px 0; color: #00ff9f; text-shadow: 0 0 20px rgba(0, 255, 159, 0.4);">
     ALLISON
