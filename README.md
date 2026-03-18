@@ -24,6 +24,9 @@
   </p>
 
   <!-- GIF Starship -->
+Drag & Drop this GIF anywhere!
+
+
   <h3 style="margin: 20px 0 12px; letter-spacing: 3px; font-size: 1.35rem; opacity: 0.9; color: #ffffff;">
     IGNITION SEQUENCE START
   </h3>
