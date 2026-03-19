@@ -84,10 +84,10 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60"/> Engineering Mindset
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="300"> Engineering Mindset
 
 - Precision over shortcuts  
-- Clean and maintainable code  
+- Clean and maintainable code                              <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60"/> 
 - Systems thinking  
 - Performance and scalability focus  
 ---
