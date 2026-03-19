@@ -50,7 +50,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 ---
 
 
-## <img width=48 src= "https://github.com/user-attachments/assets/b5c03711-e607-4559-a89e-387d4a953afe"/> Automation Focus
+##  Automation Focus
 
 - Test automation and workflow optimization  
 - Process efficiency and scalability  
@@ -91,7 +91,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="80"/>
 ---
 
-## 🛰️ Mission
+## <img width=48 src= "https://github.com/user-attachments/assets/b5c03711-e607-4559-a89e-387d4a953afe"/> Mission
 
 To become a **software engineer specialized in automation and high-reliability systems**, contributing to environments where **performance, precision, and innovation are critical**.
 
