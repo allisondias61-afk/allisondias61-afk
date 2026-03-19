@@ -75,7 +75,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
-## <img width=45 src= "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" /> Current Focus
+## <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="45"> Current Focus
 
 - Advancing in Java and automation frameworks  
 - Improving software architecture  
@@ -88,8 +88,9 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 - Precision over shortcuts  
 - Clean and maintainable code
-- Systems thinking                                       <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60"/> 
+- Systems thinking
 - Performance and scalability focus  
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60"/> 
 ---
 
 ## <img width=48 src= "https://github.com/user-attachments/assets/b5c03711-e607-4559-a89e-387d4a953afe"/> Mission
