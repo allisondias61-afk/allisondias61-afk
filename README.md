@@ -23,7 +23,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
-## <img width="512" height="360" alt="image" src="https://github.com/user-attachments/assets/ff700c08-0fa5-4aff-9638-d74e144b083d" />
+## <img src= "https://github.com/user-attachments/assets/22c69537-7181-4108-8fa7-b27703e6eae7" />
 
  Tech Stack
 
