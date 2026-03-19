@@ -86,7 +86,7 @@ To become a **software engineer specialized in automation and high-reliability s
 
 ## 📬 Contact
 
-- <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"> LinkedIn: https://www.linkedin.com/in/allisonjdias/
+- <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> LinkedIn: https://www.linkedin.com/in/allisonjdias/
 - <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30"> discord: allisonjdias
 - <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30"> whatsapp: (+55) 11910128078
 
