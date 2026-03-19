@@ -61,19 +61,6 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
-## <img width=45 src= "https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" /> GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllisonjDias&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllisonjDias&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AllisonjDias&theme=tokyonight"/>
-</p>
-
----
-
 ## <img src="https://github.com/user-attachments/assets/2e6552ff-cd16-4931-b040-dd44ae3f287d" width="45"> Current Focus
 
 - Advancing in Java and automation frameworks  
