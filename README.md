@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="50"/> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="50"/> About Me
 
 <p align="center">
 I am focused on <b>automation, system reliability, and scalable software development</b>.  
