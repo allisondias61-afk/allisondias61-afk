@@ -10,12 +10,6 @@
 
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&duration=4950&pause=1000&color=F7F7F7&center=true&width=435&lines=Allison+Dias" alt="Typing SVG" /></h3>
 
-<!-- TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Automation+Engineer+in+Progress;Java+%7C+Automation+%7C+Systems;Building+Reliable+and+Scalable+Solutions" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Allison Dias</h1>
 <h3 align="center">Automation-focused Developer | Java | Systems Thinking</h3>
 
 ---
