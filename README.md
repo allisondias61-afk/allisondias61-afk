@@ -50,7 +50,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 ---
 
 
-## <img src="https://assets.science.nasa.gov/content/dam/science/missions/landsat/2023/09/L1-turntable.gif" width="60"> Automation Focus
+## <img src="https://github.com/allisondias61-afk/allisondias61-afk/blob/main/L1-turntable.gif> Automation Focus
 
 - Test automation and workflow optimization  
 - Process efficiency and scalability  
