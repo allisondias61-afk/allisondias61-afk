@@ -8,7 +8,7 @@
   <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
 </p> 
 
-<img width="1536" height="500" alt="ChatGPT Image Mar 19, 2026, 05_35_38 AM" src="https://github.com/user-attachments/assets/67c828cb-133c-4fd6-97e0-69d1fe467d10" />
+<img width="700" height="500" alt="ChatGPT Image Mar 19, 2026, 05_35_38 AM" src="https://github.com/user-attachments/assets/67c828cb-133c-4fd6-97e0-69d1fe467d10" />
 
 
 <h3 align="center">Automation-focused Developer | Java | Systems Thinking</h3>
