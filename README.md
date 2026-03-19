@@ -35,7 +35,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 </div>
 
 ---
-
+https://iconscout.com/lottie-animation/repair-tools-animation_7898105
 ### 🛠 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,aws,github" />
