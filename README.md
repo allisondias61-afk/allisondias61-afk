@@ -23,7 +23,6 @@ I am focused on <b>automation, system reliability, and scalable software develop
 My goal is to build solutions that reduce manual processes and improve performance, applying an engineering mindset inspired by high-performance environments such as aerospace systems.
 </p>
 
----
 
 ## <img width=45 src= "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" /> Tech Stack
 
@@ -85,7 +84,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
-## <img width=45 src= " https://i.pinimg.com/originals/4a/1e/e2/4a1ee288ea97d5d320f3649c07f5f1eb.gif" /> Engineering Mindset
+## <img width=45 src= "https://github.com/user-attachments/assets/17f17ee4-92fc-4674-a90e-afd664ded8d5" /> Engineering Mindset
 
 - Precision over shortcuts  
 - Clean and maintainable code  
