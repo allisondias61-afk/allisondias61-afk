@@ -1,8 +1,9 @@
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E57C49&size=25&center=true&vCenter=true&width=600&lines=Automation+Engineer+in+Progress;Java+%7C+Automation+%7C+Systems+Thinking;Building+Reliable+and+Scalable+Solutions" />
-  <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
 </p>
+
+<h1 align="center"><img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/></h1>
 
 
 
