@@ -89,7 +89,6 @@ My goal is to build solutions that reduce manual processes and improve performan
 - Clean and maintainable code
 - Systems thinking
 - Performance and scalability focus  
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60"/> 
 ---
 
 ## <img width=48 src= "https://github.com/user-attachments/assets/b5c03711-e607-4559-a89e-387d4a953afe"/> Mission
