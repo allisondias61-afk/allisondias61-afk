@@ -50,7 +50,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 ---
 
 
-## <img src="L1-turntable.gif> Automation Focus
+## <img src="L1-turntable.gif/> Automation Focus
 
 - Test automation and workflow optimization  
 - Process efficiency and scalability  
