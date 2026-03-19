@@ -8,7 +8,8 @@
   <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
 </p> 
 
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&duration=4950&pause=1000&color=F7F7F7&center=true&width=435&lines=Allison+Dias" alt="Typing SVG" /></h3>
+<img width="1536" height="1024" alt="ChatGPT Image Mar 19, 2026, 05_35_38 AM" src="https://github.com/user-attachments/assets/67c828cb-133c-4fd6-97e0-69d1fe467d10" />
+
 
 <h3 align="center">Automation-focused Developer | Java | Systems Thinking</h3>
 
