@@ -61,7 +61,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
-## 📊 GitHub Stats
+## <img width=45 src= "https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" /> GitHub Stats
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllisonjDias&show_icons=true&theme=tokyonight"/>
