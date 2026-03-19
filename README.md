@@ -25,7 +25,6 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ## <img width=50 src= "https://github.com/user-attachments/assets/22c69537-7181-4108-8fa7-b27703e6eae7" /> Tech Stack
 
-### 💻 Core Technologies
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/>
