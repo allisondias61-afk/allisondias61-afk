@@ -1,7 +1,14 @@
 <!-- ROCKET -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=E57C49&size=25&center=true&vCenter=true&width=600&lines=Automation+Engineer+in+Progress;Java+%7C+Automation+%7C+Systems+Thinking;Building+Reliable+and+Scalable+Solutions" />
 </p>
+
+<p align="center">
+  <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
+</p> 
+
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&duration=4950&pause=1000&color=F7F7F7&center=true&width=435&lines=Allison+Dias" alt="Typing SVG" /></h3>
 
 <!-- TYPING -->
 <p align="center">
@@ -81,6 +88,10 @@ My goal is to build solutions that reduce manual processes and improve performan
 ---
 
 ## 🧠 Engineering Mindset
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100"/>
+</p>
 
 - Precision over shortcuts  
 - Clean and maintainable code  
