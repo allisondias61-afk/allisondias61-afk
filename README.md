@@ -38,7 +38,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 ---
 
 
-## <img width=48 src= "https://github.com/user-attachments/assets/f5a0f3a1-0720-407d-b52f-c252ac73679c" /> Tools & Platforms
+## <img width=52 src= "https://github.com/user-attachments/assets/f5a0f3a1-0720-407d-b52f-c252ac73679c" /> Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" />
 </p>
