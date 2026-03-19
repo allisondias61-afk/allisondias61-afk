@@ -96,7 +96,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ## <img width=48 src= "https://github.com/user-attachments/assets/b5c03711-e607-4559-a89e-387d4a953afe"/> Mission
 
-To become a **software engineer specialized in automation and high-reliability systems**, contributing to environments where **performance, precision, and innovation are critical**.
+To become a **software engineer specialized in automation and high-reliability systems**, contributing to environments where **performance, precision, and innovation are critical**, with a long-term goal of working in **aerospace and advanced engineering sectors**, where software plays a key role in mission-critical systems.
 
 ---
 
