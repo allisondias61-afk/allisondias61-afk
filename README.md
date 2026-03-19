@@ -102,11 +102,7 @@ To become a **software engineer specialized in automation and high-reliability s
 
 ## 📬 Contact
 
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: (add here)
+- 📧 Email: allisonjdias@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/allisonjdias/
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</p>
