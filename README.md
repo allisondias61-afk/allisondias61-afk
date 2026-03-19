@@ -49,7 +49,8 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
-## 🤖 Automation Focus
+
+## <img width=48 src= "https://github.com/user-attachments/assets/b5c03711-e607-4559-a89e-387d4a953afe"/> Automation Focus
 
 - Test automation and workflow optimization  
 - Process efficiency and scalability  
