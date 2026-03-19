@@ -8,12 +8,13 @@
   <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
 </p> 
 
----
+<h3 align="center"><img width="286" height="78" alt="fontbolt-removebg-preview" src="https://github.com/user-attachments/assets/12048d22-7d4c-4d35-9917-c70e71549334" />
+ </h3>
 
 
 <h3 align="center">Automation-focused Developer | Java | Systems Thinking</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="50"/> About Me
 
