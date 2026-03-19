@@ -8,7 +8,7 @@
   <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
 </p> 
 
-<h3 align="center"><img width="386" height="78" alt="fontbolt-removebg-preview" src="https://github.com/user-attachments/assets/12048d22-7d4c-4d35-9917-c70e71549334" />
+<h3 align="center"><img width="286" height="78" alt="fontbolt-removebg-preview" src="https://github.com/user-attachments/assets/12048d22-7d4c-4d35-9917-c70e71549334" />
  </h3>
 
 
