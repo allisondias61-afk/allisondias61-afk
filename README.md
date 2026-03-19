@@ -85,7 +85,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
-## 🧠 Engineering Mindset
+## <img width=45 src= " https://i.pinimg.com/originals/4a/1e/e2/4a1ee288ea97d5d320f3649c07f5f1eb.gif" /> Engineering Mindset
 
 - Precision over shortcuts  
 - Clean and maintainable code  
