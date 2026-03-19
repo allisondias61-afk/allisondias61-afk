@@ -23,7 +23,8 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
-## ⚙️ Tech Stack
+## <img width="245" height="150" alt="image" src="https://github.com/user-attachments/assets/0c708155-6465-4813-b4ad-a7f60fed6980" />
+ Tech Stack
 
 ### 💻 Core Technologies
 <div align="center">
