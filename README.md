@@ -84,7 +84,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
-## <img width=45 src= "https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?" /> Engineering Mindset
+## <img width=45 src= "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" /> Engineering Mindset
 
 - Precision over shortcuts  
 - Clean and maintainable code  
