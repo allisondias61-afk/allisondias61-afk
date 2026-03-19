@@ -74,7 +74,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45"> Current Focus
+## <img src="https://github.com/user-attachments/assets/2e6552ff-cd16-4931-b040-dd44ae3f287d" width="45"> Current Focus
 
 - Advancing in Java and automation frameworks  
 - Improving software architecture  
