@@ -23,7 +23,7 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
-## <img width=50 src= "https://github.com/user-attachments/assets/f704efeb-84a3-4611-a30e-3830a6dc3434" /> Tech Stack
+## <img width=50 src= "https://github.com/user-attachments/assets/3a3e449c-8bc1-491a-af06-1b4a78ce000d" /> Tech Stack
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60"/>
@@ -36,10 +36,8 @@ My goal is to build solutions that reduce manual processes and improve performan
 
 ---
 
--> ![18561137](https://github.com/user-attachments/assets/34774b40-d657-4be8-b74a-05fe1b30e22c)
 
-
-### <img width=50 src= "https://github.com/user-attachments/assets/34774b40-d657-4be8-b74a-05fe1b30e22c" />  Tools & Platforms
+### <img width=50 src= "https://github.com/user-attachments/assets/f5a0f3a1-0720-407d-b52f-c252ac73679c" />  Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,aws,github" />
 </p>
